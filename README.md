@@ -1,3 +1,4 @@
 # kottans_frontend
 frontend course is started
-## kottans_frontend
+##Task 0 (get familiar with Git and GitHub):
+###Lesson 1: Navigating a Commit History
