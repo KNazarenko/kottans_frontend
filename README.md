@@ -5,4 +5,4 @@ frontend course is started
 * thing that was new to me - Git
 * thing that surprised me - Git is most good for version control. It’s ease to find the difference between versions of file. 
 * thing that I intend to use in the future - Git environment
-### Got 15 minutes and want to learn Git?
+### [Got 15 minutes and want to learn Git?]
