@@ -1,9 +1,8 @@
 # kottans_frontend
 Is's all new for me and I like it.
 
-A lot about **Git Tips for Beginners [here](https://www.webpagefx.com/blog/web-design/git-tips/)**
-
-Configuring Git for GitHub Desktop(https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
+##### A lot about **Git Tips for Beginners [here](https://www.webpagefx.com/blog/web-design/git-tips/)**
+##### [Configuring Git for GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 
 ## Task 00:
 #### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) is not complited
