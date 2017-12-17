@@ -1,7 +1,9 @@
 # kottans_frontend
-frontend course is started
+Front-end course is started. Is's all new for me and I like it.
+
+A lot about **Git Tips for Beginners [here](https://www.webpagefx.com/blog/web-design/git-tips/)**
 ## Task 00:
-#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) not complited
+#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) is not complited
 * `new` - all about Git
 * `surprised` - Git is most good for version control. It’s ease to find the difference between versions of file. 
 * `intend to use` -  one commit per logical change
