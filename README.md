@@ -5,7 +5,7 @@ Is's all new for me and I like it.
 ##### [Configuring Git for GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 
 ## Task 00:
-#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) is not complited
+#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) is in the process
 * `new` - all about Git
 * `surprised` - all about VCS :). Git is most good for version control system. It’s ease to find the difference between versions of file. 
 * `intend to use` -  one commit per logical change
