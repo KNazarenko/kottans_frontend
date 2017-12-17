@@ -1,5 +1,5 @@
 # kottans_frontend
-Front-end course is started. Is's all new for me and I like it.
+Is's all new for me and I like it.
 
 A lot about **Git Tips for Beginners [here](https://www.webpagefx.com/blog/web-design/git-tips/)**
 ## Task 00:
