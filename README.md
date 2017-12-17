@@ -8,6 +8,6 @@ Is's all new for me and I like it.
 #### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) is in the process
 * `new` - all about Git
 * `surprised` - all about VCS :). Git is most good for version control system. It’s ease to find the difference between versions of file. 
-* `intend to use` -  one commit per logical change
+* `intend to use` -  one commit per logical change.  I'll experiment and explore Git 
 #### task [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 ## Task 01:
