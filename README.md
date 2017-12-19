@@ -9,7 +9,7 @@ and I like this phrases :)
 
 > Don’t look back; make a full commitment. Introducing Git into your normal coding workflow will soon prove to be one of the biggest and most significant things you’ve done in a while.
 ## Task 00:
-#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) in process
+#### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) finished
 * `new` - all about Git
 * `surprised` - all about VCS :). Git is most good for version control system. It’s ease to find the difference between versions of file. 
 * `intend to use` -  one commit per logical change.  I'll experiment and explore Git and GitHub
