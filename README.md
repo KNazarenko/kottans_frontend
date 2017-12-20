@@ -16,3 +16,9 @@ and I like this phrases :)
 #### task [Got 15 minutes and want to learn Git?](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00a.PNG) finished
 ## Task 01:
 #### course [Linux Command Line Basics](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01.PNG) in process
+* `new` - all about VM
+* `surprised` - cool command rm -rf /  :stuck_out_tongue_winking_eye:
+* `intend to use` -  command line and shells
+## Task 02:
+#### course [Version Control with Git]() in process
+#### course [GitHub & Collaboration]() in process
