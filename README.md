@@ -15,10 +15,17 @@ and I like this phrases :)
 * `intend to use` -  one commit per logical change.  I'll experiment and explore Git and GitHub
 #### task [Got 15 minutes and want to learn Git?](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00a.PNG) finished
 ## Task 01:
-#### course [Linux Command Line Basics](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01.PNG) in process
+#### course [Linux Command Line Basics](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01.PNG) finished
 * `new` - all about VM
 * `surprised` - cool command rm -rf /  :stuck_out_tongue_winking_eye:
 * `intend to use` -  command line and shells
+#### course [Configuring Linux Web Servers](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01a_configuring%20Linex%20web%20servers.PNG) finished
+* `new` - all about Vagrant, Apache HTTP Server
+* `surprised` - almost all surprised me because almost all are new for me
+* `intend to use` -  don't know right now because I need some more time to learn about it much more
 ## Task 02:
-#### course [Version Control with Git]() in process
+#### course [Version Control with Git](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task02a_version%20control%20with%20Git.PNG) finished
+* `new` - a lot of terminal commands and flags
+* `surprised` - how important is the git status
+* `intend to use` -  all cycle from making repo from scratch to the merge branches and resolve conflicts
 #### course [GitHub & Collaboration]() in process
