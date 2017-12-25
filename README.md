@@ -20,9 +20,9 @@ and I like this phrases :)
 * `surprised` - cool command rm -rf /  :stuck_out_tongue_winking_eye:
 * `intend to use` -  command line and shells
 #### course [Configuring Linux Web Servers](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01a_configuring%20Linex%20web%20servers.PNG) finished
-* `new` - all about Vagrant, Apache HTTP Server
+* `new` - all about Vagrant, Apache HTTP Server and so on
 * `surprised` - almost all surprised me because almost all are new for me
-* `intend to use` -  don't know right now because I need some more time to learn about it much more
+* `intend to use` -  don't know right now because I need some more time to learn much more about it and of course about [Networking for Web Developers](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task01b.PNG) :stuck_out_tongue_winking_eye:
 ## Task 02:
 #### course [Version Control with Git](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task02a_version%20control%20with%20Git.PNG) finished
 * `new` - a lot of terminal commands and flags
