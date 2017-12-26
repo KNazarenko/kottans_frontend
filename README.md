@@ -1,13 +1,11 @@
 ## kottans_frontend
-Is's all new for me and I like it.
+Is's all new for me but I like it :smiley:.
 
 ##### A lot about **Git Tips for Beginners [here](https://www.webpagefx.com/blog/web-design/git-tips/)**
 ##### [Configuring Git for GitHub Desktop](https://help.github.com/desktop/guides/getting-started-with-github-desktop/)
 
-and I like this phrases :)
-> It may not sound like a big deal at first, but once you fully understand the concept of branching, you’ll wonder how you could have possibly lived without this ability.
 
-> Don’t look back; make a full commitment. Introducing Git into your normal coding workflow will soon prove to be one of the biggest and most significant things you’ve done in a while.
+> Don’t look back; make a full commitment. Introducing Git into your normal coding workflow will soon prove to be one of the biggest and most significant things you’ve done in a while :smiley:.
 ## Task 00:
 #### course [How to use Git and GitHub](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task00.PNG) finished
 * `new` - all about Git
