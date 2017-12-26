@@ -28,4 +28,7 @@ and I like this phrases :)
 * `new` - a lot of terminal commands and flags
 * `surprised` - how important is the git status
 * `intend to use` -  all cycle from making repo from scratch to the merge branches and resolve conflicts
-#### course [GitHub & Collaboration]() in process
+#### course [GitHub & Collaboration](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task02b_GitHub%20%26%20Collaboration.PNG) finished
+* `new` - all about git push, git pull, git fetch and squashing with the git rebase command
+* `surprised` - changes can be manually added on GitHub (but this is not recommended, so don't do it)
+* `intend to use` -  now I don't know, but I hope everything that I learned in this course
