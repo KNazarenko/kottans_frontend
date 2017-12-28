@@ -30,3 +30,8 @@ Is's all new for me but I like it :smiley:.
 * `new` - all about git push, git pull, git fetch and squashing with the git rebase command
 * `surprised` - changes can be manually added on GitHub (but this is not recommended, so don't do it)
 * `intend to use` -  now I don't know, but I hope everything that I learned in this course
+## Task 03:
+#### course [HTML and CSS Syntax](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task03_HTML%20and%20CSS%20Syntax.PNG) finished
+* `new` - a lot in HTML and CSS syntax
+* `surprised` - possibility to make changes in Developer tools on browser
+* `intend to use` - css-tricks.com/almanac and developer.mozilla.org resources
