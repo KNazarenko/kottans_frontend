@@ -35,3 +35,8 @@ Is's all new for me but I like it :smiley:.
 * `new` - a lot in HTML and CSS syntax
 * `surprised` - possibility to make changes in Developer tools on browser
 * `intend to use` - css-tricks.com/almanac and developer.mozilla.org resources
+## Task 04:
+#### course [Responsive Web Design Fundamentals](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task04_Responsive%20Web%20Design%20Fundamentals.PNG) finished
+* `new` - DIP device independent pixels, all about Breakpoints and media queries, Flexbox layout and all about responsive design, Patterns, responsive images and tables
+* `surprised` - there’s not right solution for RWD, it’s not a science, and it is art and practice. Start from a smaller screen to a larger one
+* `intend to use` - suppose all
