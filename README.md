@@ -40,3 +40,8 @@ Is's all new for me but I like it :smiley:.
 * `new` - DIP device independent pixels, all about Breakpoints and media queries, Flexbox layout and all about responsive design, Patterns, responsive images and tables
 * `surprised` - there’s not right solution for RWD, it’s not a science, and it is art and practice. Start from a smaller screen to a larger one
 * `intend to use` - suppose all
+## Task 05:
+#### course [Intro to JavaScript](https://github.com/KonstantynNazarenko/kottans_frontend/blob/master/task05_Intro%20to%20JavaScript.PNG) finished
+* `new` - everything in this course is new for me. Conditions, functions and arrays, and especially objects. All the information is useful and incredibly interesting. And, yes, I need more practice.
+* `surprised` - while (true) {console.log("true is never false, so I will never stop!");} :smiley:.
+* `intend to use` - all of it
