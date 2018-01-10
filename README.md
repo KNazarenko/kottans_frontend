@@ -45,3 +45,8 @@ Is's all new for me but I like it :smiley:.
 * `new` - everything in this course is new for me. Conditions, functions and arrays, and especially objects. All the information is useful and incredibly interesting. And, yes, I need more practice.
 * `surprised` - while (true) {console.log("true is never false, so I will never stop!");} :smiley:.
 * `intend to use` - all of it
+## Task 06:
+#### course [Object Oriented JS](https://classroom.udacity.com/courses/ud015/lessons/2593668697/concepts/34797687890923) started
+* `new` - 
+* `surprised` - 
+* `intend to use` - 
